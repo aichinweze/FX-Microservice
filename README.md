@@ -68,6 +68,6 @@ _Updating and Adding new FX rates_
         {to} = short-code for currency you wish to convert to 
         {rate} = exchange rate
 
-  The following will add or update an exchange rate for GBP-EUR: "http://localhost:8080/v1/api/id/141/from/GBP/to/EUR/rate/1.10" 
+      The following will add or update an exchange rate for GBP-EUR: "http://localhost:8080/v1/api/id/141/from/GBP/to/EUR/rate/1.10" 
   
 This program does not save any data so any changes made are only retained during the lifetime of the APIs.
