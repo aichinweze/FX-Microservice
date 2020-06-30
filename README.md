@@ -17,7 +17,7 @@ _Preparing the Environment_
 
 1) Clone the three folders at the root of this project.
 
-2) Open three Command Prompt terminals.
+2) Open three Command Prompt terminals to the directory containing the three folders at the root of this project.
 
  
 
